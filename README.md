@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Tableau dashboard compares sales performance across different U.S. regions using KPIs, maps, trend analysis, and sales summary tables. The dashboard enables users to identify top-performing regions, analyze sales trends, and support data-driven decision-making.
+This Tableau dashboard compares sales performance across different regions using KPIs, maps, trend analysis, and sales summary tables. The dashboard enables users to identify top-performing regions, analyze sales trends, and support data-driven decision-making.
 
 ## Tools Used
 
